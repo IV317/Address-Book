@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CLightHtml_Src_List.dir/main.c.o  -o CLightHtml_Src_List 

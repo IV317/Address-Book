@@ -1,0 +1,3 @@
+/home/chris/CLionProjects/calculateArraySum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chris/CLionProjects/calculateArraySum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chris/CLionProjects/calculateArraySum/cmake-build-debug/CMakeFiles/calculateArraySum.dir

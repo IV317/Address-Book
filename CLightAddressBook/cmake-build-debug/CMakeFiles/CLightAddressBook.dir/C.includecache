@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chris/CLionProjects/CLightAddressBook/functions.c
+functions.h
+/home/chris/CLionProjects/CLightAddressBook/functions.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/chris/CLionProjects/CLightAddressBook/functions.h
+
+/home/chris/CLionProjects/CLightAddressBook/main.c
+stdio.h
+-
+stdlib.h
+-
+functions.h
+/home/chris/CLionProjects/CLightAddressBook/functions.h
+
